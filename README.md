@@ -1,4 +1,4 @@
-# Algorithms Final Project
+# Exploring_Markov_Models_for_Genomic_Structure_Classification
 
 Project Title:
 
