@@ -73,7 +73,7 @@ biological signals is therefore essential for determining when these
 models are applicable, where they break down, and how much context is
 required for reliable structural discrimination in the human genome.
 
-For this study, I implement a deterministic k‑order Markov chain model
+For this study, I implement a deterministic k‑order Markov chain
 as a multi‑class generative classifier, training a separate model for
 each canonical genomic feature. In this formulation, nucleotides A, T,
 C, and G constitute the basic alphabet, and the effective states of a
