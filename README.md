@@ -74,7 +74,7 @@ models are applicable, where they break down, and how much context is
 required for reliable structural discrimination in the human genome.
 
 For this study, I implement a deterministic k‑order Markov chain
-as a multi‑class generative classifier, training a separate model for
+as a multi‑feature generative classifier, training a separate model for
 each canonical genomic feature. In this formulation, nucleotides A, T,
 C, and G constitute the basic alphabet, and the effective states of a
 k‑order model correspond to all possible kmers. Each model learns the
